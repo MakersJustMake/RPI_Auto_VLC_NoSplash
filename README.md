@@ -19,3 +19,5 @@ Last execute the script
 chmod 700 rpi_config.sh
 ./rpi_config.sh
 ```
+
+## This has been validated to work on RPI 3B+ and RPI4
